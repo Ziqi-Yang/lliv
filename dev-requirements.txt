@@ -1,0 +1,4 @@
+hatchling==1.25.0
+editables==0.5 # hatchling editable build requirement
+build==1.2.1
+cibuildwheel==2.19.2
