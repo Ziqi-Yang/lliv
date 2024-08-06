@@ -1,0 +1,7 @@
+[project]
+name = "llvmpym-iv"
+version = "0.1.0"
+authors = [
+  {name = "Meow King", email = "mr.meowking@anche.no"},
+]
+dependencies = []
