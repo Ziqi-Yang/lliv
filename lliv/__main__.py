@@ -8,8 +8,8 @@ def main():
     args = parser.parse_args()
 
     if args.version:
-        ver = version("llvmpym_iv")
-        print(f"llvmpym-iv - {ver}")
+        ver = version("lliv")
+        print(f"lliv - {ver}")
 
 
 if __name__ == "__main__":

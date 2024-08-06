@@ -1,5 +1,5 @@
 run: install-dev
-    llvmpym-iv
+    lliv
     
 install-dev:
     pip install --no-build-isolation -ve .
